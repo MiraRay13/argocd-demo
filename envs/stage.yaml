@@ -14,7 +14,7 @@ ingress:
   annotations: {}
 
   hosts:
-    - host: qstage-artemis.makeasyaws.com
+    - host: stage-artemis.makeasyaws.com
       paths:
         - path: /
           pathType: ImplementationSpecific
